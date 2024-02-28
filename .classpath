@@ -10,5 +10,8 @@
 	<classpathentry kind="src" path="Lab2"/>
 	<classpathentry kind="src" path="Lab3"/>
 	<classpathentry kind="src" path="Lab4"/>
+	<classpathentry kind="src" path="TH_Bai0_Calculation"/>
+	<classpathentry kind="src" path="Th_Bai1_FormLogin"/>
+	<classpathentry kind="src" path="TH_Bai2_GiaiPT"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
