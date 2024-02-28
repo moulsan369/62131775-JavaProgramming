@@ -13,5 +13,7 @@
 	<classpathentry kind="src" path="TH_Bai0_Calculation"/>
 	<classpathentry kind="src" path="Th_Bai1_FormLogin"/>
 	<classpathentry kind="src" path="TH_Bai2_GiaiPT"/>
+	<classpathentry kind="src" path="THplus_01"/>
+	<classpathentry kind="src" path="THplus_02"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
