@@ -15,5 +15,6 @@
 	<classpathentry kind="src" path="TH_Bai2_GiaiPT"/>
 	<classpathentry kind="src" path="THplus_01"/>
 	<classpathentry kind="src" path="THplus_02"/>
+	<classpathentry kind="src" path="Lab5"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
