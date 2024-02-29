@@ -8,6 +8,7 @@
   - [LAB 2: KIỂU, TOÁN TỬ, LỆNH IF VÀ SWITCH](https://github.com/moulsan369/62131775-JavaProgramming/tree/master/Lab2).
   - [LAB 3: MẢNG VÀ LỆNH LẶP](https://github.com/moulsan369/62131775-JavaProgramming/tree/master/Lab3/moulsan369).
   - [LAB 4: LỚP VÀ ĐỐI TƯỢNG](https://github.com/moulsan369/62131775-JavaProgramming/tree/master/Lab4/moulsan369).
+  - [LAB 5: ARRAYLIST](https://github.com/moulsan369/62131775-JavaProgramming/tree/master/Lab5/moulsan369)
 # BÀI TẬP THỰC HÀNH
    - [BÀI THỰC HÀNH 0: TÍNH TOÁN ĐƠN GIẢN](https://github.com/moulsan369/62131775-JavaProgramming/tree/master/TH_Bai0_Calculation/moulsan369).
    - [BÀI THỰC HÀNH 1: ĐĂNG NHẬP ĐƠN GIẢN](https://github.com/moulsan369/62131775-JavaProgramming/tree/master/Th_Bai1_FormLogin).
